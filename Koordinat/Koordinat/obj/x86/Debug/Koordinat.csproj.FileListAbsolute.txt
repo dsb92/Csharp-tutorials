@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\Koordinat\Koordinat\bin\Debug\Koordinat.exe
+c:\users\david\documents\visual studio 2010\Projects\Koordinat\Koordinat\bin\Debug\Koordinat.pdb
+c:\users\david\documents\visual studio 2010\Projects\Koordinat\Koordinat\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\Koordinat\Koordinat\obj\x86\Debug\Koordinat.exe
+c:\users\david\documents\visual studio 2010\Projects\Koordinat\Koordinat\obj\x86\Debug\Koordinat.pdb

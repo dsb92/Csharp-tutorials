@@ -1,0 +1,11 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\WindowsApp\WindowsApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.Form1.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\WindowsApp\WindowsApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\WindowsApp\WindowsApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.pdb
+E:\Visual Studio 2010\Projects\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.exe
+E:\Visual Studio 2010\Projects\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.pdb

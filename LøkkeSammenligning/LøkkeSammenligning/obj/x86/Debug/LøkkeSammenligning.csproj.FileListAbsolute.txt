@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\LøkkeSammenligning\LøkkeSammenligning\bin\Debug\LøkkeSammenligning.exe
+c:\users\david\documents\visual studio 2010\Projects\LøkkeSammenligning\LøkkeSammenligning\bin\Debug\LøkkeSammenligning.pdb
+c:\users\david\documents\visual studio 2010\Projects\LøkkeSammenligning\LøkkeSammenligning\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\LøkkeSammenligning\LøkkeSammenligning\obj\x86\Debug\LøkkeSammenligning.exe
+c:\users\david\documents\visual studio 2010\Projects\LøkkeSammenligning\LøkkeSammenligning\obj\x86\Debug\LøkkeSammenligning.pdb

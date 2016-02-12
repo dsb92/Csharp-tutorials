@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2010\Projects\MinEvent\MinEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\MinEvent\MinEvent\obj\x86\Debug\MinEvent.Form1.resources
+c:\users\david\documents\visual studio 2010\Projects\MinEvent\MinEvent\obj\x86\Debug\MinEvent.Properties.Resources.resources
+c:\users\david\documents\visual studio 2010\Projects\MinEvent\MinEvent\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\david\documents\visual studio 2010\Projects\MinEvent\MinEvent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\MinEvent\MinEvent\bin\Debug\MinEvent.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\MinEvent\MinEvent\bin\Debug\MinEvent.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\MinEvent\MinEvent\obj\x86\Debug\MinEvent.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\MinEvent\MinEvent\obj\x86\Debug\MinEvent.pdb

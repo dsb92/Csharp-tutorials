@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\LæsFraFil\LæsFraFil\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\LæsFraFil\LæsFraFil\bin\Debug\LæsFraFil.exe
+c:\users\david\documents\visual studio 2010\Projects\LæsFraFil\LæsFraFil\bin\Debug\LæsFraFil.pdb
+c:\users\david\documents\visual studio 2010\Projects\LæsFraFil\LæsFraFil\obj\x86\Debug\LæsFraFil.exe
+c:\users\david\documents\visual studio 2010\Projects\LæsFraFil\LæsFraFil\obj\x86\Debug\LæsFraFil.pdb

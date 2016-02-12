@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\ProcesDemo\ProcesDemo\bin\Debug\ProcesDemo.exe
+c:\users\david\documents\visual studio 2010\Projects\ProcesDemo\ProcesDemo\bin\Debug\ProcesDemo.pdb
+c:\users\david\documents\visual studio 2010\Projects\ProcesDemo\ProcesDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\ProcesDemo\ProcesDemo\obj\x86\Debug\ProcesDemo.exe
+c:\users\david\documents\visual studio 2010\Projects\ProcesDemo\ProcesDemo\obj\x86\Debug\ProcesDemo.pdb

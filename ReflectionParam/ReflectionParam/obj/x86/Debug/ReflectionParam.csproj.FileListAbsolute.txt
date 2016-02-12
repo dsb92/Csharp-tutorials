@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\ReflectionParam\ReflectionParam\bin\Debug\ReflectionParam.exe
+c:\users\david\documents\visual studio 2010\Projects\ReflectionParam\ReflectionParam\bin\Debug\ReflectionParam.pdb
+c:\users\david\documents\visual studio 2010\Projects\ReflectionParam\ReflectionParam\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\ReflectionParam\ReflectionParam\obj\x86\Debug\ReflectionParam.exe
+c:\users\david\documents\visual studio 2010\Projects\ReflectionParam\ReflectionParam\obj\x86\Debug\ReflectionParam.pdb

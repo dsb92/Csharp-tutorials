@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\COperator\COperator\bin\Debug\COperator.exe
+c:\users\david\documents\visual studio 2010\Projects\COperator\COperator\bin\Debug\COperator.pdb
+c:\users\david\documents\visual studio 2010\Projects\COperator\COperator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\COperator\COperator\obj\x86\Debug\COperator.exe
+c:\users\david\documents\visual studio 2010\Projects\COperator\COperator\obj\x86\Debug\COperator.pdb

@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\WriteLine_tests\WriteLine_tests\bin\Debug\WriteLine_tests.exe
+c:\users\david\documents\visual studio 2010\Projects\WriteLine_tests\WriteLine_tests\bin\Debug\WriteLine_tests.pdb
+c:\users\david\documents\visual studio 2010\Projects\WriteLine_tests\WriteLine_tests\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\WriteLine_tests\WriteLine_tests\obj\x86\Debug\WriteLine_tests.exe
+c:\users\david\documents\visual studio 2010\Projects\WriteLine_tests\WriteLine_tests\obj\x86\Debug\WriteLine_tests.pdb

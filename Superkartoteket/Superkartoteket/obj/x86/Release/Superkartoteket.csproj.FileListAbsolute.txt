@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\Superkartoteket\Superkartoteket\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\Superkartoteket\Superkartoteket\bin\Release\Superkartoteket.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\Superkartoteket\Superkartoteket\bin\Release\Superkartoteket.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Superkartoteket\Superkartoteket\obj\x86\Release\Superkartoteket.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\Superkartoteket\Superkartoteket\obj\x86\Release\Superkartoteket.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Superkartoteket\Superkartoteket\bin\Release\Superkartoteket.XML

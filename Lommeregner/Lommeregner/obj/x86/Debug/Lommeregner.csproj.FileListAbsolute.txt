@@ -1,0 +1,11 @@
+c:\users\david\documents\visual studio 2010\Projects\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe
+c:\users\david\documents\visual studio 2010\Projects\Lommeregner\Lommeregner\bin\Debug\Lommeregner.pdb
+c:\users\david\documents\visual studio 2010\Projects\Lommeregner\Lommeregner\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\Lommeregner\Lommeregner\obj\x86\Debug\Lommeregner.Form1.resources
+c:\users\david\documents\visual studio 2010\Projects\Lommeregner\Lommeregner\obj\x86\Debug\Lommeregner.Properties.Resources.resources
+c:\users\david\documents\visual studio 2010\Projects\Lommeregner\Lommeregner\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\david\documents\visual studio 2010\Projects\Lommeregner\Lommeregner\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\david\documents\visual studio 2010\Projects\Lommeregner\Lommeregner\obj\x86\Debug\Lommeregner.exe
+c:\users\david\documents\visual studio 2010\Projects\Lommeregner\Lommeregner\obj\x86\Debug\Lommeregner.pdb
+E:\Visual Studio 2010\Projects\Lommeregner\Lommeregner\obj\x86\Debug\Lommeregner.exe
+E:\Visual Studio 2010\Projects\Lommeregner\Lommeregner\obj\x86\Debug\Lommeregner.pdb

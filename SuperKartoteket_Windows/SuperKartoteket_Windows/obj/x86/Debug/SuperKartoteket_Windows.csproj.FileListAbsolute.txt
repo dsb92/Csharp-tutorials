@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\SuperKartoteket_Windows\SuperKartoteket_Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\SuperKartoteket_Windows\SuperKartoteket_Windows\obj\x86\Debug\SuperKartoteket_Windows.Form1.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\SuperKartoteket_Windows\SuperKartoteket_Windows\obj\x86\Debug\SuperKartoteket_Windows.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\SuperKartoteket_Windows\SuperKartoteket_Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\SuperKartoteket_Windows\SuperKartoteket_Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\SuperKartoteket_Windows\SuperKartoteket_Windows\bin\Debug\SuperKartoteket_Windows.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\SuperKartoteket_Windows\SuperKartoteket_Windows\bin\Debug\SuperKartoteket_Windows.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\SuperKartoteket_Windows\SuperKartoteket_Windows\obj\x86\Debug\SuperKartoteket_Windows.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\SuperKartoteket_Windows\SuperKartoteket_Windows\obj\x86\Debug\SuperKartoteket_Windows.pdb

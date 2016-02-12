@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\HelloWorldWithArgs\HelloWorldWithArgs\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\HelloWorldWithArgs\HelloWorldWithArgs\bin\Debug\HelloWorldWithArgs.exe
+c:\users\david\documents\visual studio 2010\Projects\HelloWorldWithArgs\HelloWorldWithArgs\bin\Debug\HelloWorldWithArgs.pdb
+c:\users\david\documents\visual studio 2010\Projects\HelloWorldWithArgs\HelloWorldWithArgs\obj\x86\Debug\HelloWorldWithArgs.exe
+c:\users\david\documents\visual studio 2010\Projects\HelloWorldWithArgs\HelloWorldWithArgs\obj\x86\Debug\HelloWorldWithArgs.pdb

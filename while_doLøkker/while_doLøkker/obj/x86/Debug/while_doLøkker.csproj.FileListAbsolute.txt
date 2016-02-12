@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\while_doLøkker\while_doLøkker\bin\Debug\while_doLøkker.exe
+c:\users\david\documents\visual studio 2010\Projects\while_doLøkker\while_doLøkker\bin\Debug\while_doLøkker.pdb
+c:\users\david\documents\visual studio 2010\Projects\while_doLøkker\while_doLøkker\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\while_doLøkker\while_doLøkker\obj\x86\Debug\while_doLøkker.exe
+c:\users\david\documents\visual studio 2010\Projects\while_doLøkker\while_doLøkker\obj\x86\Debug\while_doLøkker.pdb

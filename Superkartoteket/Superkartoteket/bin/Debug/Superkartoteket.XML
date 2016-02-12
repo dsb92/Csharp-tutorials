@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Superkartoteket</name>
+    </assembly>
+    <members>
+        <member name="M:Kundekartotek.CPerson.Opdater(System.String,System.String,System.String)">
+            <summary>
+            Opdaterer persondata
+            </summary>
+            <remarks> Virtual metode(overrides i CKunde), som opdaterer kundedata
+            <para> Opdater kaldes fra den overridede Opdater i CKunde</para>
+            <para> De tre parametre Navn, Adr og Tlf tildeles de tilsvarende klassevariabler</para>
+            <para> Der returneres til den kaldende metode</para>
+            Se evt. Opdater i CKunde<seealso cref="M:Kundekartotek.CKunde.Opdater(System.String,System.String,System.String)"/>
+            </remarks>
+            <param name="Navn"> Navnet på personen</param>
+            <param name="Adr"> Personens adresse</param>
+            <param name="Tlf">Personenes telefonnummer</param>
+            
+        </member>
+        <member name="F:Kundekartotek.CPerson.navn">
+            <value> Property Navn som der kan laves get på</value>
+        </member>
+        <member name="M:Kundekartotek.CKundekartotek.SletKunde(System.Int32)">
+            <example>
+            Dette eksempel viser hvordan du kalder SletKunde(kk er et objekt af typen KundeKartotek)
+            <code>
+            int ID;
+            string strID;
+            
+            Console.Write("ID på kunde som skal slettes :");
+            strID = Console.ReadLine();
+            ID = Convert.ToInt32(strID, 10); //Konverter streng til int
+            kk.SletKunde(ID);
+            </code>
+            </example>
+        </member>
+    </members>
+</doc>
